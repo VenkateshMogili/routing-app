@@ -5,7 +5,7 @@ export default function Header() {
 	return (
 		<nav className="navbar bg-light justify-content-center sticky-top fixed-top">
 			<li className="nav-link">
-				<a href="/" className="nav-link">
+				<a href="#" className="nav-link">
 					Refresh
 				</a>
 			</li>
